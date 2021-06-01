@@ -14,3 +14,6 @@ Version: 2.9.10. When the xmlParseMemory interface is used to parse the oversize
 </DSPPERF>
   .............................
 </DSPPERFs>
+
+
+XML_PARSE_NODICT
